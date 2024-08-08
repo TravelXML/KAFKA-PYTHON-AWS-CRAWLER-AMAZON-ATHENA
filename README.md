@@ -1,4 +1,8 @@
-# How to Install and Set Up Kafka on Amazon EC2 for Streaming Data to S3 with AWS Glue and Athena
+# Install and Set Up Kafka on Amazon EC2 for Streaming Data to S3 with AWS Glue and Athena
+
+
+![Architecture](https://github.com/TravelXML/KAFKA-PYTHON-AWS-CRAWLER-AMAZON-ATHENA/blob/master/images/Architecture.jpg)
+
 
 Setting up Apache Kafka on an Amazon EC2 instance can be a powerful way to handle real-time data streaming. This guide will walk you through installing Kafka on an EC2 instance, configuring Zookeeper, producer, and consumer, and streaming logs to an S3 bucket. We'll then use AWS Glue to create a data catalog and run SQL queries with Amazon Athena to analyze the data.
 
